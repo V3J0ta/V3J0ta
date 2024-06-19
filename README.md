@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @VêJota
+- 👀 I’m interested in develop websites.
+- 🌱 I’m currently learning Java, Javascript, HTML and CSS.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me? 
+- ⚡ Fun fact: I’m  saying: "Hello World!"
